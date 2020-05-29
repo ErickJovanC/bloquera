@@ -1,0 +1,27 @@
+.imagen{
+	color:white;
+	padding-top: 120px;
+	padding-bottom: 120px;
+	margin-bottom: 15px;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+.imagen-modal{
+	background-size: cover;
+	text-align: center;
+	padding-top: 200px;
+	background-position: -30px;
+}
+
+body{
+	padding-top: 60px;
+}
+
+footer{
+	background-color: #1E1E1E;
+	color: white;
+	padding: 10px;
+	margin-top:15px;
+}
